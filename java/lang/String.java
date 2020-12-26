@@ -45,6 +45,7 @@ import java.util.regex.PatternSyntaxException;
  * implemented as instances of this class.
  * <p>
  *     字符串是常量，它们不能改变，此处测试git配置是否正确
+ *     git测试 测试
  * Strings are constant; their values cannot be changed after they
  * are created. String buffers support mutable strings.
  * Because String objects are immutable they can be shared. For example:
